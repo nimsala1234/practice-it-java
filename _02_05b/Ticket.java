@@ -31,7 +31,7 @@ public class Ticket {
     return price;
   }
 
-  publuc boolean getIsReturn(){
+  public boolean getIsReturn(){
     return isReturn;
   }
 }
